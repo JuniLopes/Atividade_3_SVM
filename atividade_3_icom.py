@@ -4,7 +4,6 @@ Created on Thu Sep  6 17:54:19 2021
 
 # Equipe:
 # *   Aline
-# *   Irlailton
 # *   Juliane
 # *   Rubens Lopes
 
